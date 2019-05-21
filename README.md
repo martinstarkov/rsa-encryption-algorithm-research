@@ -6,11 +6,4 @@ While having existed for over a decade, ransomware attacks have grown exponentia
 
 The RSA algorithm, developed in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman, is a public key encryption algorithm in which the public and private keys used to encrypt and decrypt information, are separate. [20] Their separation allows only the party in control of the private key to decrypt said information. [3]
 
-Three basic principles enable the RSA algorithm to work as effectively as it does:
-  1. Finding large prime numbers is straightforward
-  2. Numbers are easy to test for primality and therefore the generation and testing of thousands of numbers allows us to easily find large primes. [4]
-  3. Multiplication is elementary
-
-Modern computational power enables us to easily perform multiplication of two or more numbers extremely effectively, which facilitates the easy creation of the public keys. [4]
-
 I have always found the mathematics behind number theory interesting and think it is important for people to understand how the relationships between prime numbers allow us to create effective algorithms that secure our information. Knowledge of the systems and effectiveness of encryption allows us to respond appropriately and safeguard ourselves from these kinds of attacks in the future.
